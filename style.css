@@ -133,7 +133,7 @@ body {
   color: black;
   margin-top: 0.2rem;
 }
-.more-foot {
+.more-footer {
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -142,11 +142,11 @@ body {
 .copyright {
   padding-bottom: 10px;
 }
-.foot a {
+.footer a {
   text-decoration: none;
   color: black;
 }
-.foot:hover {
+.footer:hover {
   background-color: bisque;
   padding: 5px 10px;
   border: 1px green solid;
